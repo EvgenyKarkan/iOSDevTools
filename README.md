@@ -35,7 +35,8 @@ Set of repositories for different development tasks.
 [AMScrollingNavBar](https://github.com/andreamazz/AMScrollingNavbar "Title")  Scrollable UINavigationBar  (Google+ style)    
 [MDCParallaxView](https://github.com/modocache/MDCParallaxView "Title")  Parallax effect on view    
 [Parallax](https://github.com/acoomans/Parallax "Title")  Another yet parallax effect   
-[]
+[GSBookShelf](https://github.com/ultragtx/GSBookShelf "Title")  iBooks -style control   
+# Data
 
 
 
