@@ -57,6 +57,8 @@ Set of repositories for different development tasks.
 [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs "Title")  Stub network requests    
 # Unit Tests
 [Kiwi](https://github.com/allending/Kiwi "Title") BDD for iOS   
+[GHUnit](https://github.com/gh-unit/gh-unit "Title") Test Framework for Objective-C
+[OCMock](http://ocmock.org "Title") Objective-C implementation of mock objects
 # Device
 [iHasApp](https://github.com/danielamitay/iHasApp "Title")  Detect installed apps on a user's device    
 [IntentKit](https://github.com/intentkit/IntentKit "Title")  Handle third-party URL schemes in iOS apps   
