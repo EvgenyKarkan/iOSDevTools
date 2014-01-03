@@ -13,6 +13,7 @@ Set of repositories for different development tasks.
 [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC "Title")  Objective-C Port of ZXing barcode image processing    
 [SVGKit](https://github.com/SVGKit/SVGKit "Title")  Display and interact with SVG Images on iOS / OS X    
 [UIImage-BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame "Title") Blurred image effect   
+[OpenCV](https://github.com/Fl0p/OpenCV-iOS "Title")  Builded OpenCV iOS framework
 # UI
 [MBProgressHUD](https://github.com/jdg/MBProgressHUD "Title") Custom alert    
 [SVProgressHUD](https://github.com/samvermette/SVProgressHUD "Title") Another yet custom alert    
@@ -47,6 +48,7 @@ Set of repositories for different development tasks.
 [SSKeychain](https://github.com/soffes/sskeychain "Title")  Objective-C wrapper for the keychain    
 [RNCryptor](https://github.com/rnapier/RNCryptor "Title")  AES encryption wrapper for iOS and Mac   
 [HTMLParser](https://github.com/zootreeves/Objective-C-HMTL-Parser "Title")  HTML parser    
-
+[zipzap](https://github.com/pixelglow/zipzap "Title")   Zip file I/O for iOS & Maс OS   
+[RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories "Title")  Makes regular expressions easy in ObjC
 
 
