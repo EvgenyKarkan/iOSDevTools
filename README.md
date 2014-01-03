@@ -39,7 +39,7 @@ Set of repositories for different development tasks.
 [GSBookShelf](https://github.com/ultragtx/GSBookShelf "Title")  iBooks -style control   
 # Data
 [MagicalRecord](hhttps://github.com/magicalpanda/MagicalRecord "Title")  Easy Fetching for Core Data    
-[JSONKit](https://github.com/johnezang/JSONKit "Title")   Objective-C JSON    
+[JSONKit](https://github.com/johnezang/JSONKit "Title")   Objective-C JSON wrapper     
 [json-framework](https://github.com/stig/json-framework "Title")  JSON parser and generator   
 [JSONModel](https://github.com/icanzilb/JSONModel "Title")  Data Modelling Framework for JSON   
 [fmdb](https://github.com/ccgus/fmdb "Title")  Cocoa / Objective-C wrapper around SQLite    
@@ -50,5 +50,15 @@ Set of repositories for different development tasks.
 [HTMLParser](https://github.com/zootreeves/Objective-C-HMTL-Parser "Title")  HTML parser    
 [zipzap](https://github.com/pixelglow/zipzap "Title")   Zip file I/O for iOS & Maс OS   
 [RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories "Title")  Makes regular expressions easy in ObjC
-
+# Debug Tools
+[PonyDebugger](https://github.com/square/PonyDebugger "Title")  Remote network and data debugging   
+[CocoaLumberJack](https://github.com/CocoaLumberjack/CocoaLumberjack "Title")  Flexible logging framework for Mac and iOS   
+[superdb](https://github.com/Shopify/superdb "Title")  realtime wireless debugger for iOS   
+[OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs "Title")  Stub network requests    
+# Unit Tests
+[Kiwi](https://github.com/allending/Kiwi "Title") BDD for iOS   
+# Device
+[iHasApp](https://github.com/danielamitay/iHasApp "Title")  Detect installed apps on a user's device    
+[IntentKit](https://github.com/intentkit/IntentKit "Title")  Handle third-party URL schemes in iOS apps   
+[iOS System Services](https://github.com/Shmoopi/iOS-System-Services "Title")  Gather all available information about a device
 
