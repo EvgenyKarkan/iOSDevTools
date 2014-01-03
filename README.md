@@ -1,6 +1,6 @@
 iOSDevTools
 ===========
-Set of repositories for different development tasks.
+Set of open sources for different development tasks.
 
 # Networking
 [AFNetworking](https://github.com/AFNetworking/AFNetworking "Title")  iOS & OS X networking framework    
@@ -57,7 +57,7 @@ Set of repositories for different development tasks.
 [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs "Title")  Stub network requests    
 # Unit Tests
 [Kiwi](https://github.com/allending/Kiwi "Title") BDD for iOS   
-[GHUnit](https://github.com/gh-unit/gh-unit "Title") Test Framework for Objective-C
+[GHUnit](https://github.com/gh-unit/gh-unit "Title") Test Framework for Objective-C   
 [OCMock](http://ocmock.org "Title") Objective-C implementation of mock objects
 # Device
 [iHasApp](https://github.com/danielamitay/iHasApp "Title")  Detect installed apps on a user's device    
