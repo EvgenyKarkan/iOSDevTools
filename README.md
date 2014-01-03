@@ -1,6 +1,5 @@
 iOSDevTools
 ===========
-
 Set of repositories for different development tasks.
 
 # Networking
@@ -22,4 +21,23 @@ Set of repositories for different development tasks.
 [PaperFold](https://github.com/honcheng/PaperFold-for-iOS "Title")  Paper folding animation for iOS   
 [MPFoldTransition](https://github.com/mpospese/MPFoldTransition "Title") Another yet paper folding animation    
 [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController "Title")  Facebook style view controller   
-[MMDrawerController](https://github.com/mutualmobile/MMDrawerController "Title") Another yet FB style view controller
+[MMDrawerController](https://github.com/mutualmobile/MMDrawerController "Title") Another yet FB style view controller   
+[TTAttributedLabel](https://github.com/mattt/TTTAttributedLabel "Title")  Replacement for UILabel that supports attributes, data detectors, links, and more   
+[SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh "Title") Custom pull-to-refresh control    
+[TSMessage](https://github.com/toursprung/TSMessages "Title")  Custom notifications from navigation bar   
+[MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell "Title") iOS Mail swipe-style cell    
+[SWTableViewCell](https://github.com/CEWendel/SWTableViewCell "Title")  Another yet swipe-style cell    
+[iOSPlot](https://github.com/honcheng/iOSPlot "Title")  Chart library for iOS   
+[SVWebViewController](https://github.com/samvermette/SVWebViewController "Title")  A drop-in inline browser for iOS app   
+[PHFComposeBarView](https://github.com/fphilipe/PHFComposeBarView "Title")  Compose bar from iOS 7 Messages.app   
+[WYPopoverController](https://github.com/nicolaschengdev/WYPopoverController "Title")  Custom popover   
+[ABCalendarPicker](https://github.com/k06a/ABCalendarPicker "Title")  Calendar picker control   
+[AMScrollingNavBar](https://github.com/andreamazz/AMScrollingNavbar "Title")  Scrollable UINavigationBar  (Google+ style)    
+[MDCParallaxView](https://github.com/modocache/MDCParallaxView "Title")  Parallax effect on view    
+[Parallax](https://github.com/acoomans/Parallax "Title")  Another yet parallax effect   
+[]
+
+
+
+
+
