@@ -37,8 +37,16 @@ Set of repositories for different development tasks.
 [Parallax](https://github.com/acoomans/Parallax "Title")  Another yet parallax effect   
 [GSBookShelf](https://github.com/ultragtx/GSBookShelf "Title")  iBooks -style control   
 # Data
-
-
+[MagicalRecord](hhttps://github.com/magicalpanda/MagicalRecord "Title")  Easy Fetching for Core Data    
+[JSONKit](https://github.com/johnezang/JSONKit "Title")   Objective-C JSON    
+[json-framework](https://github.com/stig/json-framework "Title")  JSON parser and generator   
+[JSONModel](https://github.com/icanzilb/JSONModel "Title")  Data Modelling Framework for JSON   
+[fmdb](https://github.com/ccgus/fmdb "Title")  Cocoa / Objective-C wrapper around SQLite    
+[FCModel](https://github.com/marcoarment/FCModel "Title")  Alternative to Core Data for people who like having direct SQL access    
+[TMCache](https://github.com/tumblr/TMCache "Title")  Fast parallel object cache for iOS and OS X   
+[SSKeychain](https://github.com/soffes/sskeychain "Title")  Objective-C wrapper for the keychain    
+[RNCryptor](https://github.com/rnapier/RNCryptor "Title")  AES encryption wrapper for iOS and Mac   
+[HTMLParser](https://github.com/zootreeves/Objective-C-HMTL-Parser "Title")  HTML parser    
 
 
 
