@@ -64,3 +64,7 @@ Set of open sources for different development tasks.
 [IntentKit](https://github.com/intentkit/IntentKit "Title")  Handle third-party URL schemes in iOS apps   
 [iOS System Services](https://github.com/Shmoopi/iOS-System-Services "Title")  Gather all available information about a device
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
