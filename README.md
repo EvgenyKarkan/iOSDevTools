@@ -59,6 +59,8 @@ Set of open sources for different development tasks.
 [Kiwi](https://github.com/allending/Kiwi "Title") BDD for iOS   
 [GHUnit](https://github.com/gh-unit/gh-unit "Title") Test Framework for Objective-C   
 [OCMock](http://ocmock.org "Title") Objective-C implementation of mock objects
+# UI Tests
+[UI AutoMonkey](https://github.com/jonathanpenn/ui-auto-monkey "Title") Stress testing script for iOS applications
 # Device
 [iHasApp](https://github.com/danielamitay/iHasApp "Title")  Detect installed apps on a user's device    
 [IntentKit](https://github.com/intentkit/IntentKit "Title")  Handle third-party URL schemes in iOS apps   
