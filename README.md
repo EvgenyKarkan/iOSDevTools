@@ -62,7 +62,8 @@ Set of open sources for different development tasks.
 [GHUnit](https://github.com/gh-unit/gh-unit) Test Framework for Objective-C   
 [OCMock](http://ocmock.org) Objective-C implementation of mock objects
 # UI Tests
-[UI AutoMonkey](https://github.com/jonathanpenn/ui-auto-monkey) Stress testing script for iOS applications
+[UI AutoMonkey](https://github.com/jonathanpenn/ui-auto-monkey) Stress testing script for iOS applications    
+[Calabash](https://github.com/calabash/calabash-ios) BDD style UI testing
 # Device
 [iHasApp](https://github.com/danielamitay/iHasApp)  Detect installed apps on a user's device    
 [IntentKit](https://github.com/intentkit/IntentKit)  Handle third-party URL schemes in iOS apps   
