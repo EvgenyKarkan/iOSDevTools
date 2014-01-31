@@ -68,8 +68,8 @@ Set of open sources for different development tasks.
 [iHasApp](https://github.com/danielamitay/iHasApp)  Detect installed apps on a user's device    
 [IntentKit](https://github.com/intentkit/IntentKit)  Handle third-party URL schemes in iOS apps   
 [iOS System Services](https://github.com/Shmoopi/iOS-System-Services)  Gather all available information about a device
-
-
+# Location
+[PSLocationManager](https://github.com/perspecdev/PSLocationManager) CoreLocation wrapper. Allows to track speed and distance.   
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
