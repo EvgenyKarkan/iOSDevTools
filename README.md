@@ -70,6 +70,13 @@ Set of open sources for different development tasks.
 [iOS System Services](https://github.com/Shmoopi/iOS-System-Services)  Gather all available information about a device
 # Location
 [PSLocationManager](https://github.com/perspecdev/PSLocationManager) CoreLocation wrapper. Allows to track speed and distance.   
+#Applications
+
+[Inkpad](https://github.com/sprang/Inkpad) Vector illustration app for the iPad   
+[Brushes](https://github.com/sprang/Brushes) Painting app for the iPhone and iPad   
+[mbus](https://github.com/jonahgrant/mbus) iOS implementation of the University of Michigan's bus dispatch system   
+[mtigas/iOS-OnionBrowser](https://github.com/mtigas/iOS-OnionBrowser) An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network    
+
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
