@@ -79,7 +79,12 @@ Set of open sources for different development tasks.
 [LTBlackList](https://github.com/lexrus/LTBlacklist) The missing Blacklist app for your iOS 5/6+ with private APIs. No Jailbreak Required!    
 [lastfm-iphone](https://github.com/lastfm/lastfm-iphone) The official Last.fm iPhone application  
 [cryptocat-ios](https://github.com/cryptocat/cryptocat-ios) Cryptocat for iOS. Easy to use encrypted instant messaging. https://crypto.cat    
-[NewsMagazineApp](https://github.com/michaelhenry/NewsMagazineApp) Just a news magazine app with Flipboard style paging http://newsmagazineapp.com
+[NewsMagazineApp](https://github.com/michaelhenry/NewsMagazineApp) Just a news magazine app with Flipboard style paging http://newsmagazineapp.com   
+[Concurrency](https://github.com/nicklockwood/Concurrency) Source code for the Concurrency app: https://itunes.apple.com/app/concurrency/id738872892    
+[Cheddar](https://github.com/nothingmagical/cheddar-ios) Cheddar for iOS https://cheddarapp.com/ios   
+[News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone) The iPhone version of News/YC, a Hacker News reader and interactive iOS application.   
+[Hacker-News](http://github.com/mmackh/Hacker-News-for-iOS) Hacker News client for iPad and iPhone    
+
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
