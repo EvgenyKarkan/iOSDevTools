@@ -74,6 +74,7 @@ Set of open sources for different development tasks.
 
 [Inkpad](https://github.com/sprang/Inkpad) Vector illustration app for the iPad   
 [Brushes](https://github.com/sprang/Brushes) Painting app for the iPhone and iPad   
+[GraphSketcher](https://github.com/graphsketcher/GraphSketcher) A fast, simple graph drawing and data plotting app for OS X and iPad. by OmniGroup company.    
 [mbus](https://github.com/jonahgrant/mbus) iOS implementation of the University of Michigan's bus dispatch system   
 [mtigas/iOS-OnionBrowser](https://github.com/mtigas/iOS-OnionBrowser) An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network    
 [LTBlackList](https://github.com/lexrus/LTBlacklist) The missing Blacklist app for your iOS 5/6+ with private APIs. No Jailbreak Required!    
