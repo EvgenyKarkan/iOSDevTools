@@ -84,6 +84,7 @@ Set of open sources for different development tasks.
 [Cheddar](https://github.com/nothingmagical/cheddar-ios) Cheddar for iOS https://cheddarapp.com/ios   
 [News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone) The iPhone version of News/YC, a Hacker News reader and interactive iOS application.   
 [Hacker-News](http://github.com/mmackh/Hacker-News-for-iOS) Hacker News client for iPad and iPhone    
+[DVIA](https://github.com/prateek147/DVIA) Helps to learn iOS security. Blog http://damnvulnerableiosapp.com    
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
