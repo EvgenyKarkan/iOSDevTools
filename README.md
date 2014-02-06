@@ -87,6 +87,10 @@ Set of open sources for different development tasks.
 [Hacker-News](http://github.com/mmackh/Hacker-News-for-iOS) Hacker News client for iPad and iPhone    
 [DVIA](https://github.com/prateek147/DVIA) Helps to learn iOS security. Blog http://damnvulnerableiosapp.com    
 [Sol°](https://github.com/comyarzaheri/Sol) Flat style weather app.    
+[Chimp](https://github.com/derekts/Chimp) Source code editor   https://itunes.apple.com/ua/app/chimp/id645194243?mt=8     
+[TimeScoop](https://github.com/derekts/TimeScoop) Time Tracking Utility for iPhone    https://itunes.apple.com/ua/app/timescoop/id642040474?mt=8    
+[GraphiCal](https://github.com/derekts/GraphiCal) Calculator iOS app   https://itunes.apple.com/ua/app/graphical/id647517420?mt=8    
+
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
