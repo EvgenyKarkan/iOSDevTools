@@ -94,6 +94,11 @@ Set of open sources for different development tasks.
 #Xcode Plugins    
 [Injection for Xcode](https://github.com/johnno1962/injectionforxcode) Runtime Code Injection for Objective-C http://www.injectionforxcode.com    
 [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway) Xcode plugin for auto-hiding the debugger once you start typing in the source code editor    
-[XAlign](https://github.com/qfish/XAlign) An amazing Xcode plugin to align regular code.   
+[XAlign](https://github.com/qfish/XAlign) An amazing Xcode plugin to align regular code.  
+[CocoaPods for Xcode](https://github.com/kattrali/cocoapods-xcode-plugin) Dependency management helper for your CocoaPods, right in Xcode   
+[BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) Xcode plugin to format source code using ClangFormat or Uncrustify   
+[FuzzyAutocompletePlugin](https://github.com/chendo/FuzzyAutocompletePlugin) A Xcode 5 plugin that adds more flexible autocompletion rather than just prefix-matching.    
+
+
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
