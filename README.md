@@ -98,6 +98,7 @@ Set of open sources for different development tasks.
 [CocoaPods for Xcode](https://github.com/kattrali/cocoapods-xcode-plugin) Dependency management helper for your CocoaPods, right in Xcode   
 [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) Xcode plugin to format source code using ClangFormat or Uncrustify   
 [FuzzyAutocompletePlugin](https://github.com/chendo/FuzzyAutocompletePlugin) A Xcode 5 plugin that adds more flexible autocompletion rather than just prefix-matching.    
+[KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) Xcode plug-in that provides autocomplete for imageNamed: calls   
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
