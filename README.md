@@ -99,7 +99,9 @@ Set of open sources for different development tasks.
 [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) Xcode plugin to format source code using ClangFormat or Uncrustify   
 [FuzzyAutocompletePlugin](https://github.com/chendo/FuzzyAutocompletePlugin) A Xcode 5 plugin that adds more flexible autocompletion rather than just prefix-matching.    
 [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) Xcode plug-in that provides autocomplete for imageNamed: calls   
-
+[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) Quick Look plugin for .ipa and .mobileprovision    
+[ ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang    
+[XToDo](https://github.com/trawor/XToDo) Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`    
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
