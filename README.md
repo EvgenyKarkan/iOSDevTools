@@ -102,6 +102,7 @@ Set of open sources for different development tasks.
 [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) Quick Look plugin for .ipa and .mobileprovision    
 [ ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang    
 [XToDo](https://github.com/trawor/XToDo) Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`    
+[XcodeExplorer](https://github.com/edwardaux/XcodeExplorer) An Xcode4 plugin to view the internal goings-on of Xcode   
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
