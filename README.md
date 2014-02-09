@@ -91,6 +91,9 @@ Set of open sources for different development tasks.
 [TimeScoop](https://github.com/derekts/TimeScoop) Time Tracking Utility for iPhone    https://itunes.apple.com/ua/app/timescoop/id642040474?mt=8    
 [GraphiCal](https://github.com/derekts/GraphiCal) Calculator iOS app   https://itunes.apple.com/ua/app/graphical/id647517420?mt=8    
 
-
+#Xcode Plugins    
+[Injection for Xcode](https://github.com/johnno1962/injectionforxcode) Runtime Code Injection for Objective-C http://www.injectionforxcode.com    
+[BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway) Xcode plugin for auto-hiding the debugger once you start typing in the source code editor    
+[XAlign](https://github.com/qfish/XAlign) An amazing Xcode plugin to align regular code.   
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
