@@ -103,6 +103,14 @@ Set of open sources for different development tasks.
 [ ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang    
 [XToDo](https://github.com/trawor/XToDo) Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`    
 [XcodeExplorer](https://github.com/edwardaux/XcodeExplorer) An Xcode4 plugin to view the internal goings-on of Xcode   
+[JDPluginManager](https://github.com/jaydee3/JDPluginManager)  An Xcode PluginManager - simplifies installing, updating and deleting   
+[ColorSense](https://github.com/omz/ColorSense-for-Xcode) Plugin for Xcode to make working with colors more visual   
+[VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode) Xcode plug-in which helps you write Javadoc style documents easier.   
+[KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) Xcode plug-in that provides autocomplete for imageNamed: calls   
+[Lin](https://github.com/questbeat/Lin-Xcode5) A Localization Manager for Xcode 5 
+http://questbe.at/lin/    
+[Dash-Plugin-for-Xcode](https://github.com/omz/Dash-Plugin-for-Xcode) Plugin for Xcode to integrate the Dash documentation viewer app    
+
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
