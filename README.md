@@ -21,7 +21,7 @@ Set of open sources for different development tasks.
 [LEColorPicker](https://github.com/luisespinoza/LEColorPicker) Generate iTunes like color scheme depends on artwork  
 [MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner)  https://github.com/mikebuss/MTBBarcodeScanner    
 [DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation    
-[iOS7-BarcodeScanner](https://github.com/jpwidmer/iOS7-BarcodeScanner) Barcode scanner using the scanning capabilities introduced with iOS 7. 
+[iOS7-BarcodeScanner](https://github.com/jpwidmer/iOS7-BarcodeScanner) Barcode scanner using the scanning capabilities introduced with iOS 7.   
 [iOS-WebP](https://github.com/seanooi/iOS-WebP)  Google's WebP image format decoder and encoder for iOS 
 http://seanooi.github.io/iOS-WebP/    
 
@@ -52,6 +52,7 @@ http://seanooi.github.io/iOS-WebP/
 http://subjc.com/facebook-paper-photo-panner/   
 [CRMotionView](https://github.com/chroman/CRMotionView) A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.    
 [CRToast](https://github.com/cruffenach/CRToast) A modern iOS toast view that can fit your notification needs   
+[RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
 
 
 #Cache    
@@ -68,10 +69,15 @@ http://subjc.com/facebook-paper-photo-panner/
 [FCModel](https://github.com/marcoarment/FCModel)  Alternative to Core Data for people who like having direct SQL access    
 [TMCache](https://github.com/tumblr/TMCache)  Fast parallel object cache for iOS and OS X   
 [SSKeychain](https://github.com/soffes/sskeychain)  Objective-C wrapper for the keychain    
+[SSZipArchive](https://github.com/soffes/ssziparchive)  Utility class for zipping and unzipping files on iOS and Mac   
 [RNCryptor](https://github.com/rnapier/RNCryptor)  AES encryption wrapper for iOS and Mac   
 [HTMLParser](https://github.com/zootreeves/Objective-C-HMTL-Parser)  HTML parser    
 [zipzap](https://github.com/pixelglow/zipzap)   Zip file I/O for iOS & Maс OS   
 [RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories)  Makes regular expressions easy in ObjC
+
+#File System
+[FCFileManager](https://github.com/fabiocaccamo/FCFileManager) iOS File Manager on top of NSFileManager for simplifying files management.   
+
 
 #Date   
 [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter)  A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats. 
@@ -109,11 +115,13 @@ http://boredzo.org/iso8601dateformatter/
 [route-me](https://github.com/route-me/route-me)  Open source map library for iOS   
 [mapbox-ios-sdk](https://github.com/mapbox/mapbox-ios-sdk) Mapbox iOS SDK, an open source alternative to MapKit. 
 http://www.mapbox.com/mapbox-ios-sdk/   
+[CCHMapClusterController](https://github.com/choefele/CCHMapClusterController) High-performance map clustering with MapKit for iOS and OS X. Integrate with 4 lines of code.   
+
 
 #Media    
 [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) A Photo and Video Gallery for iOS 7 designed. 
 
-#Social, clouds SDKs or/and wrappers 
+#Vendor SDKs or/and it wrappers 
 [FlickrKit](https://github.com/devedup/FlickrKit)  An iOS Flickr Framework, written in Objective-C 
 http://www.devedup.com    
 [objectiveflickr](https://github.com/lukhnos/objectiveflickr)  ObjectiveFlickr, a Flickr API framework for Objective-C   
@@ -172,6 +180,9 @@ http://questbe.at/lin/
 http://merowing.info    
 [iOStream](https://github.com/johnmoore/iOStream) Mobile presentations made easy. Install the SDK and start streaming now.    
 [iOS-Build-Kit](https://github.com/adamwaite/iOS-Build-Kit) BuildKit is a modular command line interface for automating iOS project builds. Bundled build tasks include: Increment app version • Xcode build • Overlay version number on icon files • Run unit tests • Create .ipa artefact.   
+[fui](https://github.com/dblock/fui)  Find unused Objective-C imports.    
+[class-dump](https://github.com/nygard/class-dump)  Generate Objective-C headers from Mach-O files. 
+http://stevenygard.com/projects/class-dump    
 
 
 
