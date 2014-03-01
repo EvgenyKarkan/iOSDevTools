@@ -21,6 +21,9 @@ Set of open sources for different development tasks.
 [LEColorPicker](https://github.com/luisespinoza/LEColorPicker) Generate iTunes like color scheme depends on artwork  
 [MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner)  https://github.com/mikebuss/MTBBarcodeScanner    
 [DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation    
+[iOS7-BarcodeScanner](https://github.com/jpwidmer/iOS7-BarcodeScanner) Barcode scanner using the scanning capabilities introduced with iOS 7. 
+[iOS-WebP](https://github.com/seanooi/iOS-WebP)  Google's WebP image format decoder and encoder for iOS 
+http://seanooi.github.io/iOS-WebP/    
 
 
 # UI
@@ -45,6 +48,11 @@ Set of open sources for different development tasks.
 [Parallax](https://github.com/acoomans/Parallax)  Another yet parallax effect   
 [GSBookShelf](https://github.com/ultragtx/GSBookShelf)  iBooks -style control   
 [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView)  Animated blur-in and blur-out on UIImageView.   
+[SubjectiveCPhotoPanner](https://github.com/subjc/SubjectiveCPhotoPanner) A small clone of Facebook Paper's motion based photo panner 
+http://subjc.com/facebook-paper-photo-panner/   
+[CRMotionView](https://github.com/chroman/CRMotionView) A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.    
+[CRToast](https://github.com/cruffenach/CRToast) A modern iOS toast view that can fit your notification needs   
+
 
 #Cache    
 [SDWebImage](https://github.com/rs/SDWebImage)  Asynchronous image downloader with caching   
@@ -135,6 +143,8 @@ http://www.devedup.com
 [FileSystem](https://github.com/macmade/FileSystem) FileSystem is an application that allows you to browse the content of your iPhone disk, displaying file and folders, files contents, and detailed informations about file and folder permissions.    
 [google-music-mac](https://github.com/kbhomes/google-music-mac)  Turn Google Music into a separate, beautiful application compatible with your Mac's media keys and including support for notifications. 
 http://kbhomes.github.io/google-music-mac/    
+[ChattAR-ios](https://github.com/QuickBlox/ChattAR-ios) Augmented Reality Chat for iOS code sample (works with Facebook API and QuickBlox API)
+http://quickblox.com/developers/Chattar   
 
 
 #Xcode Plugins    
