@@ -6,7 +6,8 @@ Set of open sources for different development tasks.
 [AFNetworking](https://github.com/AFNetworking/AFNetworking)  iOS & OS X networking framework    
 [asi-http-request](https://github.com/pokeb/asi-http-request)  CFNetwork wrapper for HTTP requests    
 [RestKit](https://github.com/RestKit/RestKit)  Consuming and modeling RESTful web resources   
-[Reachability](https://github.com/tonymillion/Reachability) ARC and GCD modification for Apple’s reachability class  [socket.IO-objc](https://github.com/pkyeck/socket.IO-objc)  socket.io v0.7.2+ for iOS devices   
+[Reachability](https://github.com/tonymillion/Reachability) ARC and GCD modification for Apple’s reachability class  
+[socket.IO-objc](https://github.com/pkyeck/socket.IO-objc)  socket.io v0.7.2+ for iOS devices   
 
 
 # Image Processing      
@@ -47,7 +48,7 @@ Set of open sources for different development tasks.
 
 #Cache    
 [SDWebImage](https://github.com/rs/SDWebImage)  Asynchronous image downloader with caching   
-[FastImageCache](https://github.com/path/FastImageCache)  iOS library for quickly displaying images while scrolling 
+[FastImageCache](https://github.com/path/FastImageCache)  iOS library for quickly displaying images while scrolling   
 [Haneke](https://github.com/hpique/Haneke)  A lightweight zero-config image cache for iOS.    
 
 # Data
