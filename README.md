@@ -183,7 +183,7 @@ http://merowing.info
 [fui](https://github.com/dblock/fui)  Find unused Objective-C imports.    
 [class-dump](https://github.com/nygard/class-dump)  Generate Objective-C headers from Mach-O files. 
 http://stevenygard.com/projects/class-dump    
-
+[iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
 
 
 
