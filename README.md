@@ -175,6 +175,10 @@ http://quickblox.com/developers/Chattar
 http://questbe.at/lin/    
 [Dash-Plugin-for-Xcode](https://github.com/omz/Dash-Plugin-for-Xcode) Plugin for Xcode to integrate the Dash documentation viewer app    
 
+#Xcode Templates
+[iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
+
+
 #Tools  
 [Crafter](https://github.com/krzysztofzablocki/crafter)  Crafter - setup your cocoa projects with ease. 
 http://merowing.info    
