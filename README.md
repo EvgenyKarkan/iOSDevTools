@@ -90,7 +90,7 @@ http://boredzo.org/iso8601dateformatter/
 [superdb](https://github.com/Shopify/superdb)  realtime wireless debugger for iOS   
 [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)  Stub network requests    
 [NSLogger](https://github.com/fpillet/NSLogger)  A modern, flexible logging tool    
-
+[Xtrace](https://github.com/johnno1962/Xtrace)  Trace Objective-C method calls by class or instance
 
 # Unit Tests
 [Kiwi](https://github.com/allending/Kiwi) BDD for iOS   
