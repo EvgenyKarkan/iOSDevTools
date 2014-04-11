@@ -19,7 +19,7 @@ Set of open sources for different development tasks.
 [OpenCV](https://github.com/Fl0p/OpenCV-iOS)  Builded OpenCV iOS framework    
 [Tesseract OCR](https://github.com/gali8/Tesseract-OCR-iOS) OCR framework for iOS   
 [LEColorPicker](https://github.com/luisespinoza/LEColorPicker) Generate iTunes like color scheme depends on artwork  
-[MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner)  https://github.com/mikebuss/MTBBarcodeScanner    
+[MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner)  A lightweight, easy-to-use barcode scanning library for iOS 7    
 [DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation    
 [iOS7-BarcodeScanner](https://github.com/jpwidmer/iOS7-BarcodeScanner) Barcode scanner using the scanning capabilities introduced with iOS 7.   
 [iOS-WebP](https://github.com/seanooi/iOS-WebP)  Google's WebP image format decoder and encoder for iOS 
