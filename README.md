@@ -190,7 +190,7 @@ http://stevenygard.com/projects/class-dump
 [iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
 [chisel](https://github.com/facebook/chisel)  Chisel is a collection of LLDB commands to assist debugging iOS apps.   
 [objc_dep](https://github.com/nst/objc_dep) Graph the import dependancies in an Objective-C project       
-
+[fui](https://github.com/dblock/fui) Find unused Objective-C imports.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
