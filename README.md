@@ -155,6 +155,7 @@ http://kbhomes.github.io/google-music-mac/
 http://quickblox.com/developers/Chattar   
 [AwesomeChat](https://github.com/relatedcode/AwesomeChat) AwesomeChat is a full native iPhone app to create realtime, text based chatrooms with Facebook/Twitter login.   
 [ioctocat](https://github.com/dennisreimann/ioctocat) iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch) http://ioctocat.com/      
+[2048](https://github.com/ik/2048) The iOS version of 2048, made using SpriteKit    
 
 
 #Xcode Plugins    
@@ -177,10 +178,15 @@ http://quickblox.com/developers/Chattar
 http://questbe.at/lin/    
 [Dash-Plugin-for-Xcode](https://github.com/omz/Dash-Plugin-for-Xcode) Plugin for Xcode to integrate the Dash documentation viewer app    
 [XCode4_beginning_of_line](https://github.com/insanehunter/XCode4_beginning_of_line) Xcode plugin to make HOME key jump to the first non-whitespace line of code   
+[CocoaPodUI](https://github.com/Galeas/CocoaPodUI) XCode plugin that implements CocoaPods GUI.    
+[SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) Xcode MiniMap plugin    
+[BBUFullIssueNavigator](https://github.com/neonichu/BBUFullIssueNavigator) Xcode plugin for showing all issue content in the issue navigator.   
 
 #Xcode Templates
 [iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
 
+#Xcode configurations & scripts
+[Warnings-xcconfig](https://github.com/boredzo/Warnings-xcconfig) An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets. http://boredzo.org/blog/archives/2009-11-07/warnings    
 
 #Tools  
 [Crafter](https://github.com/krzysztofzablocki/crafter)  Crafter - setup your cocoa projects with ease. 
@@ -195,6 +201,7 @@ http://stevenygard.com/projects/class-dump
 [objc_dep](https://github.com/nst/objc_dep) Graph the import dependancies in an Objective-C project       
 [IconOverlaying](https://github.com/krzysztofzablocki/IconOverlaying) Sample project showing how to overlay information on Icon in iOS App.   
 [CPDAcknowledgements](https://github.com/CocoaPods/CPDAcknowledgements) Show your CocoaPods dependencies in-app.    
+[liftoff](https://github.com/thoughtbot/liftoff) CLI for creating and configuring new Xcode projects    
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
