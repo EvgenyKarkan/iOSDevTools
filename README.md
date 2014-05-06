@@ -153,6 +153,8 @@ http://www.devedup.com
 http://kbhomes.github.io/google-music-mac/    
 [ChattAR-ios](https://github.com/QuickBlox/ChattAR-ios) Augmented Reality Chat for iOS code sample (works with Facebook API and QuickBlox API)
 http://quickblox.com/developers/Chattar   
+[AwesomeChat](https://github.com/relatedcode/AwesomeChat) AwesomeChat is a full native iPhone app to create realtime, text based chatrooms with Facebook/Twitter login.   
+[ioctocat](https://github.com/dennisreimann/ioctocat) iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch) http://ioctocat.com/      
 
 
 #Xcode Plugins    
@@ -174,6 +176,7 @@ http://quickblox.com/developers/Chattar
 [Lin](https://github.com/questbeat/Lin-Xcode5) A Localization Manager for Xcode 5 
 http://questbe.at/lin/    
 [Dash-Plugin-for-Xcode](https://github.com/omz/Dash-Plugin-for-Xcode) Plugin for Xcode to integrate the Dash documentation viewer app    
+[XCode4_beginning_of_line](https://github.com/insanehunter/XCode4_beginning_of_line) Xcode plugin to make HOME key jump to the first non-whitespace line of code   
 
 #Xcode Templates
 [iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
