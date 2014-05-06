@@ -184,6 +184,7 @@ http://questbe.at/lin/
 [ShowInGitHub](https://github.com/larsxschneider/ShowInGitHub) Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.   
 [BBUUtilitiesTuckAway](https://github.com/neonichu/BBUUtilitiesTuckAway) Xcode plugin for auto-hiding the utilities area when you type in the source code editor.   
 [RSImageOptimPlugin](https://github.com/yeahdongcn/RSImageOptimPlugin) Xcode plugin to optimize images using ImageOptim.    
+[WCGitTagsPlugin](https://github.com/wczekalski/WCGitTagsPlugin) An Xcode plugin which lets you add tagging ability to Source Control   
 
 
 #Xcode Templates
@@ -209,6 +210,7 @@ http://stevenygard.com/projects/class-dump
 [liftoff](https://github.com/thoughtbot/liftoff) CLI for creating and configuring new Xcode projects    
 [objc_strings](https://github.com/nst/objc_strings) Helps in localizing Cocoa applications by showing unused/missing keys in Localizable.strings.    
 [homebrew](https://github.com/Homebrew/homebrew) The missing package manager for OS X. http://brew.sh   
+[Cakebrew](https://github.com/brunophilipe/Cakebrew) Manage your Homebrew formulas with style using Cakebrew.   
 [iOS-Hierarchy-Viewer](https://github.com/glock45/iOS-Hierarchy-Viewer) iOS Hierarchy Viewer allows developers to debug their user interfaces.   
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
