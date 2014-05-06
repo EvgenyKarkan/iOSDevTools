@@ -181,12 +181,17 @@ http://questbe.at/lin/
 [CocoaPodUI](https://github.com/Galeas/CocoaPodUI) XCode plugin that implements CocoaPods GUI.    
 [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) Xcode MiniMap plugin    
 [BBUFullIssueNavigator](https://github.com/neonichu/BBUFullIssueNavigator) Xcode plugin for showing all issue content in the issue navigator.   
+[ShowInGitHub](https://github.com/larsxschneider/ShowInGitHub) Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.   
+[BBUUtilitiesTuckAway](https://github.com/neonichu/BBUUtilitiesTuckAway) Xcode plugin for auto-hiding the utilities area when you type in the source code editor.   
+[RSImageOptimPlugin](https://github.com/yeahdongcn/RSImageOptimPlugin) Xcode plugin to optimize images using ImageOptim.    
+
 
 #Xcode Templates
 [iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
 
 #Xcode configurations & scripts
-[Warnings-xcconfig](https://github.com/boredzo/Warnings-xcconfig) An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets. http://boredzo.org/blog/archives/2009-11-07/warnings    
+[Warnings-xcconfig](https://github.com/boredzo/Warnings-xcconfig) An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.      
+[xc-launch](https://github.com/dfreniche/xc-launch) A small script to launch Xcode using a RAM disk   
 
 #Tools  
 [Crafter](https://github.com/krzysztofzablocki/crafter)  Crafter - setup your cocoa projects with ease. 
@@ -202,6 +207,9 @@ http://stevenygard.com/projects/class-dump
 [IconOverlaying](https://github.com/krzysztofzablocki/IconOverlaying) Sample project showing how to overlay information on Icon in iOS App.   
 [CPDAcknowledgements](https://github.com/CocoaPods/CPDAcknowledgements) Show your CocoaPods dependencies in-app.    
 [liftoff](https://github.com/thoughtbot/liftoff) CLI for creating and configuring new Xcode projects    
+[objc_strings](https://github.com/nst/objc_strings) Helps in localizing Cocoa applications by showing unused/missing keys in Localizable.strings.    
+[homebrew](https://github.com/Homebrew/homebrew) The missing package manager for OS X. http://brew.sh   
+[iOS-Hierarchy-Viewer](https://github.com/glock45/iOS-Hierarchy-Viewer) iOS Hierarchy Viewer allows developers to debug their user interfaces.   
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
