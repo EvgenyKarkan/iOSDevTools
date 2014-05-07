@@ -193,6 +193,8 @@ http://questbe.at/lin/
 #Xcode configurations & scripts
 [Warnings-xcconfig](https://github.com/boredzo/Warnings-xcconfig) An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.      
 [xc-launch](https://github.com/dfreniche/xc-launch) A small script to launch Xcode using a RAM disk   
+[WMPiOSXcconfig](https://github.com/goonzoid/WMPiOSXcconfig) A set of .xcconfig with aggressive warning settings for iOS projects.   
+[projconf](https://github.com/memfrag/projconf) A Mac OS X command line tool for transfefring Xcode build settings to .xcconfig files.    
 
 #Tools  
 [Crafter](https://github.com/krzysztofzablocki/crafter)  Crafter - setup your cocoa projects with ease. 
