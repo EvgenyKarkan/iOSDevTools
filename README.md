@@ -185,6 +185,7 @@ http://questbe.at/lin/
 [BBUUtilitiesTuckAway](https://github.com/neonichu/BBUUtilitiesTuckAway) Xcode plugin for auto-hiding the utilities area when you type in the source code editor.   
 [RSImageOptimPlugin](https://github.com/yeahdongcn/RSImageOptimPlugin) Xcode plugin to optimize images using ImageOptim.    
 [WCGitTagsPlugin](https://github.com/wczekalski/WCGitTagsPlugin) An Xcode plugin which lets you add tagging ability to Source Control   
+[XcodeBoost](https://github.com/fortinmike/XcodeBoost) An Xcode plugin that aims to make altering and inspecting code quick and easy.   
 
 
 #Xcode Templates
