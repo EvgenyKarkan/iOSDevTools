@@ -29,6 +29,7 @@ http://seanooi.github.io/iOS-WebP/
 # UI
 [MBProgressHUD](https://github.com/jdg/MBProgressHUD) Custom alert    
 [SVProgressHUD](https://github.com/samvermette/SVProgressHUD) Another yet custom alert    
+[AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) Cool AlertView       
 [PaperFold](https://github.com/honcheng/PaperFold-for-iOS)  Paper folding animation for iOS   
 [MPFoldTransition](https://github.com/mpospese/MPFoldTransition) Another yet paper folding animation    
 [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)  Facebook style view controller   
