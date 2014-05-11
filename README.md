@@ -156,6 +156,7 @@ http://quickblox.com/developers/Chattar
 [AwesomeChat](https://github.com/relatedcode/AwesomeChat) AwesomeChat is a full native iPhone app to create realtime, text based chatrooms with Facebook/Twitter login.   
 [ioctocat](https://github.com/dennisreimann/ioctocat) iOctocat v1 - GitHub for iOS (works on the iPhone, iPad, and iPod Touch) http://ioctocat.com/      
 [2048](https://github.com/ik/2048) The iOS version of 2048, made using SpriteKit    
+[Crash-Manager](https://github.com/zats/Crash-Manager) iOS client for Crashlytics     
 
 
 #Xcode Plugins    
@@ -186,8 +187,9 @@ http://questbe.at/lin/
 [RSImageOptimPlugin](https://github.com/yeahdongcn/RSImageOptimPlugin) Xcode plugin to optimize images using ImageOptim.    
 [WCGitTagsPlugin](https://github.com/wczekalski/WCGitTagsPlugin) An Xcode plugin which lets you add tagging ability to Source Control   
 [XcodeBoost](https://github.com/fortinmike/XcodeBoost) An Xcode plugin that aims to make altering and inspecting code quick and easy.   
-
-
+[AdjustFontSize-Xcode-Plugin](https://github.com/zats/AdjustFontSize-Xcode-Plugin) Increase Xcode font size with ⌘ +
+    
+    
 #Xcode Templates
 [iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
 
@@ -215,6 +217,8 @@ http://stevenygard.com/projects/class-dump
 [homebrew](https://github.com/Homebrew/homebrew) The missing package manager for OS X. http://brew.sh   
 [Cakebrew](https://github.com/brunophilipe/Cakebrew) Manage your Homebrew formulas with style using Cakebrew.   
 [iOS-Hierarchy-Viewer](https://github.com/glock45/iOS-Hierarchy-Viewer) iOS Hierarchy Viewer allows developers to debug their user interfaces.   
-
+[Alcatraz](https://github.com/supermarin/Alcatraz) Package manager for Xcode 5 
+http://alcatraz.io
+    
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
