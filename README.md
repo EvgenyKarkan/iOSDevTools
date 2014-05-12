@@ -24,7 +24,10 @@ Set of open sources for different development tasks.
 [iOS7-BarcodeScanner](https://github.com/jpwidmer/iOS7-BarcodeScanner) Barcode scanner using the scanning capabilities introduced with iOS 7.   
 [iOS-WebP](https://github.com/seanooi/iOS-WebP)  Google's WebP image format decoder and encoder for iOS 
 http://seanooi.github.io/iOS-WebP/    
-[TDImageColors](https://github.com/timominous/TDImageColors) iOS Library used to detect a number of most used colors in a UIImage.
+[TDImageColors](https://github.com/timominous/TDImageColors) iOS Library used to detect a number of most used colors in a UIImage.       
+[iOS-WebP](https://github.com/seanooi/iOS-WebP) Google's WebP image format decoder and encoder for iOS 
+     
+
 
 # UI
 [MBProgressHUD](https://github.com/jdg/MBProgressHUD) Custom alert    
