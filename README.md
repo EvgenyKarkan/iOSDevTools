@@ -108,7 +108,8 @@ http://boredzo.org/iso8601dateformatter/
 # Device
 [iHasApp](https://github.com/danielamitay/iHasApp)  Detect installed apps on a user's device    
 [IntentKit](https://github.com/intentkit/IntentKit)  Handle third-party URL schemes in iOS apps   
-[iOS System Services](https://github.com/Shmoopi/iOS-System-Services)  Gather all available information about a device
+[iOS System Services](https://github.com/Shmoopi/iOS-System-Services)  Gather all available information about a device         
+[SOMotionDetector](https://github.com/SocialObjects-Software/SOMotionDetector) Simple library to detect motion type (walking, running, automotive).         
 
 # Location
 [PSLocationManager](https://github.com/perspecdev/PSLocationManager) CoreLocation wrapper. Allows to track speed and distance.   
