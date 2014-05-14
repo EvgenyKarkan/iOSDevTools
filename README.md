@@ -223,7 +223,8 @@ http://stevenygard.com/projects/class-dump
 [Cakebrew](https://github.com/brunophilipe/Cakebrew) Manage your Homebrew formulas with style using Cakebrew.   
 [iOS-Hierarchy-Viewer](https://github.com/glock45/iOS-Hierarchy-Viewer) iOS Hierarchy Viewer allows developers to debug their user interfaces.   
 [Alcatraz](https://github.com/supermarin/Alcatraz) Package manager for Xcode 5 
-http://alcatraz.io
-    
+http://alcatraz.io       
+[quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) List of useful Quick Look plugins for developers 
+http://sindresorhus.com         
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
