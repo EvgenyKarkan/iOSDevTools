@@ -59,6 +59,10 @@ http://subjc.com/facebook-paper-photo-panner/
 [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
 
 
+#PDF
+[M13PDFKit](https://github.com/Marxon13/M13PDFKit) M13PDFKit is an iBooks like PDF viewer that can be embedded in iOS applications.       
+
+
 #Cache    
 [SDWebImage](https://github.com/rs/SDWebImage)  Asynchronous image downloader with caching   
 [FastImageCache](https://github.com/path/FastImageCache)  iOS library for quickly displaying images while scrolling   
