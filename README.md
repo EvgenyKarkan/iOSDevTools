@@ -58,6 +58,11 @@ http://subjc.com/facebook-paper-photo-panner/
 [CRToast](https://github.com/cruffenach/CRToast) A modern iOS toast view that can fit your notification needs   
 [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
 
+#Animation
+[AGGeometryKit-POP](https://github.com/hfossli/AGGeometryKit-POP) Bridging AGGeometryKit with POP for amazing dynamics and animations.      
+[BCMeshTransformView](Mesh transforms for UIView) https://github.com/Ciechan/BCMeshTransformView          
+[POP](https://github.com/facebook/pop) Extensible iOS and OS X animation library.         
+
 
 #PDF
 [M13PDFKit](https://github.com/Marxon13/M13PDFKit) M13PDFKit is an iBooks like PDF viewer that can be embedded in iOS applications.       
