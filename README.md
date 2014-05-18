@@ -58,6 +58,10 @@ http://subjc.com/facebook-paper-photo-panner/
 [CRToast](https://github.com/cruffenach/CRToast) A modern iOS toast view that can fit your notification needs   
 [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
 
+#Autolayout
+[FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) UIView category which makes it easy to create layout constraints in code      
+
+
 #Animation
 [AGGeometryKit-POP](https://github.com/hfossli/AGGeometryKit-POP) Bridging AGGeometryKit with POP for amazing dynamics and animations.      
 [BCMeshTransformView](Mesh transforms for UIView) https://github.com/Ciechan/BCMeshTransformView          
@@ -136,6 +140,8 @@ http://www.mapbox.com/mapbox-ios-sdk/
 [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) A Photo and Video Gallery for iOS 7 designed. 
 
 #Vendor SDKs or/and it wrappers 
+[SimpleAuth](https://github.com/calebd/SimpleAuth) Simple social authentication for iOS. 
+http://simpleauth.io          
 [FlickrKit](https://github.com/devedup/FlickrKit)  An iOS Flickr Framework, written in Objective-C 
 http://www.devedup.com    
 [objectiveflickr](https://github.com/lukhnos/objectiveflickr)  ObjectiveFlickr, a Flickr API framework for Objective-C   
