@@ -60,6 +60,8 @@ http://subjc.com/facebook-paper-photo-panner/
 
 #Autolayout
 [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) UIView category which makes it easy to create layout constraints in code      
+[DynamicXray](https://github.com/chrismiles/DynamicXray) iOS UIKit Dynamics runtime visualisation and introspection library. 
+http://dynamicxray.net/       
 
 
 #Animation
