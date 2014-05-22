@@ -242,7 +242,9 @@ http://stevenygard.com/projects/class-dump
 [iOS-Hierarchy-Viewer](https://github.com/glock45/iOS-Hierarchy-Viewer) iOS Hierarchy Viewer allows developers to debug their user interfaces.   
 [Alcatraz](https://github.com/supermarin/Alcatraz) Package manager for Xcode 5 
 http://alcatraz.io       
-[quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) List of useful Quick Look plugins for developers 
+[quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) List of useful Quick Look plugins for developers          
+[git-extras](https://github.com/visionmedia/git-extras) GIT utilities -- repo summary, repl, changelog population, author commit percentages and more      
+
 http://sindresorhus.com         
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
