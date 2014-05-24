@@ -110,7 +110,9 @@ http://boredzo.org/iso8601dateformatter/
 [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)  Stub network requests    
 [NSLogger](https://github.com/fpillet/NSLogger)  A modern, flexible logging tool    
 [Xtrace](https://github.com/johnno1962/Xtrace)  Trace Objective-C method calls by class or instance      
-[RHObjectiveBeagle](https://github.com/heardrwt/RHObjectiveBeagle) Beagle is an Objective C debugging tool that can sniff out class instances on the heap.       
+[RHObjectiveBeagle](https://github.com/heardrwt/RHObjectiveBeagle) Beagle is an Objective C debugging tool that can sniff out class instances on the heap.   
+[KSCrash](https://github.com/kstenerud/KSCrash) The Ultimate iOS Crash Reporter      
+[chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.      
 
 # Unit Tests
 [Kiwi](https://github.com/allending/Kiwi) BDD for iOS   
