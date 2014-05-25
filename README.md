@@ -57,6 +57,7 @@ http://subjc.com/facebook-paper-photo-panner/
 [CRMotionView](https://github.com/chroman/CRMotionView) A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.    
 [CRToast](https://github.com/cruffenach/CRToast) A modern iOS toast view that can fit your notification needs   
 [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
+[Parallax](https://github.com/acoomans/Parallax) Parallax is an iOS library that reproduces the parallax effect of the iOS7 home screen.         
 
 #Autolayout
 [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) UIView category which makes it easy to create layout constraints in code      
