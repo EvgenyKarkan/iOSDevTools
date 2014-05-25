@@ -213,8 +213,8 @@ http://questbe.at/lin/
 [RSImageOptimPlugin](https://github.com/yeahdongcn/RSImageOptimPlugin) Xcode plugin to optimize images using ImageOptim.    
 [WCGitTagsPlugin](https://github.com/wczekalski/WCGitTagsPlugin) An Xcode plugin which lets you add tagging ability to Source Control   
 [XcodeBoost](https://github.com/fortinmike/XcodeBoost) An Xcode plugin that aims to make altering and inspecting code quick and easy.   
-[AdjustFontSize-Xcode-Plugin](https://github.com/zats/AdjustFontSize-Xcode-Plugin) Increase Xcode font size with ⌘ +
-    
+[AdjustFontSize-Xcode-Plugin](https://github.com/zats/AdjustFontSize-Xcode-Plugin) Increase Xcode font size with ⌘+       
+[ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin) A plugin for Xcode to synchronize code snippets with repositories         
     
 #Xcode Templates
 [iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
