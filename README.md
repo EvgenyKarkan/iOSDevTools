@@ -81,7 +81,7 @@ http://dynamicxray.net/
 [Haneke](https://github.com/hpique/Haneke)  A lightweight zero-config image cache for iOS.    
 
 # Data
-[MagicalRecord](hhttps://github.com/magicalpanda/MagicalRecord)  Easy Fetching for Core Data    
+[MagicalRecord](https://github.com/magicalpanda/MagicalRecord)  Easy Fetching for Core Data    
 [JSONKit](https://github.com/johnezang/JSONKit)   Objective-C JSON wrapper     
 [json-framework](https://github.com/stig/json-framework)  JSON parser and generator   
 [JSONModel](https://github.com/icanzilb/JSONModel)  Data Modelling Framework for JSON   
