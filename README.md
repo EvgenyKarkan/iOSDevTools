@@ -93,7 +93,7 @@ http://dynamicxray.net/
 [RNCryptor](https://github.com/rnapier/RNCryptor)  AES encryption wrapper for iOS and Mac   
 [HTMLParser](https://github.com/zootreeves/Objective-C-HMTL-Parser)  HTML parser    
 [zipzap](https://github.com/pixelglow/zipzap)   Zip file I/O for iOS & Maс OS   
-[RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories)  Makes regular expressions easy in ObjC
+[RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories)  Makes regular expressions easy in ObjC      
 [UAObfuscatedString](https://github.com/UrbanApps/UAObfuscatedString) A simple NSString category to hide sensitive strings from appearing in your binary        
 
 
