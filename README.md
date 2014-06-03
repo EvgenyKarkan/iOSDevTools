@@ -252,7 +252,7 @@ http://alcatraz.io
 [git-extras](https://github.com/visionmedia/git-extras) GIT utilities -- repo summary, repl, changelog population, author commit percentages and more      
 
 #Swift
-
+[iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS Swift Demos from Apple          
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
