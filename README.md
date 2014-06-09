@@ -78,7 +78,10 @@ http://dynamicxray.net/
 #Cache    
 [SDWebImage](https://github.com/rs/SDWebImage)  Asynchronous image downloader with caching   
 [FastImageCache](https://github.com/path/FastImageCache)  iOS library for quickly displaying images while scrolling   
-[Haneke](https://github.com/hpique/Haneke)  A lightweight zero-config image cache for iOS.    
+[Haneke](https://github.com/hpique/Haneke)  A lightweight zero-config image cache for iOS.   
+[EGOCache](https://github.com/enormego/EGOCache) Fast Caching for Objective-C (iPhone & Mac Compatible) 
+http://developers.enormego.com          
+
 
 # Data
 [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)  Easy Fetching for Core Data    
