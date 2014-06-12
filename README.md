@@ -253,6 +253,7 @@ http://stevenygard.com/projects/class-dump
 http://alcatraz.io       
 [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) List of useful Quick Look plugins for developers          
 [git-extras](https://github.com/visionmedia/git-extras) GIT utilities -- repo summary, repl, changelog population, author commit percentages and more      
+[ios-makefile](https://github.com/lexrus/ios-makefile) The universal makefile for my iOS projects distributes IPAs in seconds          
 
 #Swift
 [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS Swift Demos from Apple          
