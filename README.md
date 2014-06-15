@@ -8,7 +8,7 @@ Set of open sources for different development tasks.
 [RestKit](https://github.com/RestKit/RestKit)  Consuming and modeling RESTful web resources   
 [Reachability](https://github.com/tonymillion/Reachability) ARC and GCD modification for Apple’s reachability class  
 [socket.IO-objc](https://github.com/pkyeck/socket.IO-objc)  socket.io v0.7.2+ for iOS devices   
-
+[AFNetworkActivityLoggerv](https://github.com/AFNetworking/AFNetworkActivityLogger) AFNetworking 2.0 Extension for Network Request Logging       
 
 # Image Processing      
 [GPUImage](https://github.com/BradLarson/GPUImage)  GPU-based image and video processing    
