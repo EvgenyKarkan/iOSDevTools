@@ -145,7 +145,9 @@ http://boredzo.org/iso8601dateformatter/
 [route-me](https://github.com/route-me/route-me)  Open source map library for iOS   
 [mapbox-ios-sdk](https://github.com/mapbox/mapbox-ios-sdk) Mapbox iOS SDK, an open source alternative to MapKit. 
 http://www.mapbox.com/mapbox-ios-sdk/   
-[CCHMapClusterController](https://github.com/choefele/CCHMapClusterController) High-performance map clustering with MapKit for iOS and OS X. Integrate with 4 lines of code.   
+[CCHMapClusterController](https://github.com/choefele/CCHMapClusterController) High-performance map clustering with MapKit for iOS and OS X. Integrate with 4 lines of code.         
+[yandexmapkit-ios](https://github.com/yandexmobile/yandexmapkit-ios) Yandex Map Kit for iOS         
+
 
 
 #Media    
