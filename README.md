@@ -121,6 +121,8 @@ http://boredzo.org/iso8601dateformatter/
 [RHObjectiveBeagle](https://github.com/heardrwt/RHObjectiveBeagle) Beagle is an Objective C debugging tool that can sniff out class instances on the heap.   
 [KSCrash](https://github.com/kstenerud/KSCrash) The Ultimate iOS Crash Reporter      
 [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.      
+[plcrashreporter](https://github.com/plausiblelabs/plcrashreporter) Mirror of the official PLCrashReporter repository        
+
 
 # Unit Tests
 [Kiwi](https://github.com/allending/Kiwi) BDD for iOS   
