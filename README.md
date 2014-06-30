@@ -109,7 +109,6 @@ http://developers.enormego.com
 
 #Date   
 [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter)  A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats. 
-http://boredzo.org/iso8601dateformatter/    
 
 
 # Debug Tools
@@ -154,9 +153,10 @@ http://www.mapbox.com/mapbox-ios-sdk/
 [yandexmapkit-ios](https://github.com/yandexmobile/yandexmapkit-ios) Yandex Map Kit for iOS         
 
 
-
 #Media    
-[MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) A Photo and Video Gallery for iOS 7 designed. 
+[MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) A Photo and Video Gallery for iOS 7 designed.        
+[TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.         
+
 
 #Vendor SDKs or/and it wrappers 
 [SimpleAuth](https://github.com/calebd/SimpleAuth) Simple social authentication for iOS. 
@@ -168,7 +168,6 @@ http://www.devedup.com
 
 
 #Applications
-
 [Inkpad](https://github.com/sprang/Inkpad) Vector illustration app for the iPad   
 [Brushes](https://github.com/sprang/Brushes) Painting app for the iPhone and iPad   
 [GraphSketcher](https://github.com/graphsketcher/GraphSketcher) A fast, simple graph drawing and data plotting app for OS X and iPad. by OmniGroup company.    
@@ -269,6 +268,5 @@ http://alcatraz.io
 
 #Swift
 [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS Swift Demos from Apple          
-
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
