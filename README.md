@@ -227,7 +227,9 @@ http://questbe.at/lin/
 [XcodeBoost](https://github.com/fortinmike/XcodeBoost) An Xcode plugin that aims to make altering and inspecting code quick and easy.   
 [AdjustFontSize-Xcode-Plugin](https://github.com/zats/AdjustFontSize-Xcode-Plugin) Increase Xcode font size with ⌘+       
 [ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin) A plugin for Xcode to synchronize code snippets with repositories      
-[xcfui](https://github.com/jcavar/xcfui)     Xcode plugin for fui tool          
+[xcfui](https://github.com/jcavar/xcfui)     Xcode plugin for fui tool    
+[Peckham](https://github.com/markohlebar/Peckham)  Add #import-s from anywhere in the code.         
+
 
     
 #Xcode Templates
