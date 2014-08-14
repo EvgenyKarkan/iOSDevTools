@@ -270,5 +270,4 @@ http://alcatraz.io
 
 #Swift
 [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS Swift Demos from Apple          
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EvgenyKarkan/iosdevtools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
