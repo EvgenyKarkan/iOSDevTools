@@ -3,7 +3,7 @@ iOSDevTools
 Set of open sources for different development tasks.
 
 # Networking
-[AFNetworking](https://github.com/AFNetworking/AFNetworking)  iOS & OS X networking framework    
+[AFNetworking](https://github.com/AFNetworking/AFNetworking)  iOS & OS X networking framework    BCMeshTransformView
 [asi-http-request](https://github.com/pokeb/asi-http-request)  CFNetwork wrapper for HTTP requests    
 [RestKit](https://github.com/RestKit/RestKit)  Consuming and modeling RESTful web resources   
 [Reachability](https://github.com/tonymillion/Reachability) ARC and GCD modification for Apple’s reachability class  
@@ -66,7 +66,7 @@ http://dynamicxray.net/
 
 #Animation
 [AGGeometryKit-POP](https://github.com/hfossli/AGGeometryKit-POP) Bridging AGGeometryKit with POP for amazing dynamics and animations.      
-[BCMeshTransformView](Mesh transforms for UIView) https://github.com/Ciechan/BCMeshTransformView          
+[BCMeshTransformView](https://github.com/Ciechan/BCMeshTransformView) Mesh transforms for UIView           
 [POP](https://github.com/facebook/pop) Extensible iOS and OS X animation library.         
 
 
