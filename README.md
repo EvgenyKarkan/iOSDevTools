@@ -313,3 +313,13 @@ Not really development tools, but useful adjuncts to my day-to-day workflow.
 
 #Swift
 [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS Swift Demos from Apple
+
+
+## Editing code
+
+* [Monokai Xcode 4 Theme](https://github.com/riveralabs/monokai-xcode4-theme) is the syntax highlighting theme I like
+* [SourceTree](http://www.sourcetreeapp.com) is my Git GUI client of choice
+* [Kaleidoscope](http://www.kaleidoscopeapp.com) is great for resolving merge conflicts and general diffing
+* I like [Sublime Text 2](http://www.sublimetext.com/2) as a general text editor, despite its many quirks
+* [CodeRunner](http://krillapps.com/coderunner/) is great for quickly testing out snippets of code
+* [xctool](https://github.com/facebook/xctool) is a replacement for Apple's `xcodebuild` tool but with saner output
