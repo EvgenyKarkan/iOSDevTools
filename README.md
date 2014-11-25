@@ -3,60 +3,59 @@ iOSDevTools
 Set of open sources for different development tasks.
 
 # Networking
-[AFNetworking](https://github.com/AFNetworking/AFNetworking)  iOS & OS X networking framework    BCMeshTransformView
-[asi-http-request](https://github.com/pokeb/asi-http-request)  CFNetwork wrapper for HTTP requests
-[RestKit](https://github.com/RestKit/RestKit)  Consuming and modeling RESTful web resources
-[Reachability](https://github.com/tonymillion/Reachability) ARC and GCD modification for Apple’s reachability class  
-[socket.IO-objc](https://github.com/pkyeck/socket.IO-objc)  socket.io v0.7.2+ for iOS devices
-[AFNetworkActivityLoggerv](https://github.com/AFNetworking/AFNetworkActivityLogger) AFNetworking 2.0 Extension for Network Request Logging
+[AFNetworking](https://github.com/AFNetworking/AFNetworking)  iOS & OS X networking framework   
+[asi-http-request](https://github.com/pokeb/asi-http-request)  CFNetwork wrapper for HTTP requests    
+[RestKit](https://github.com/RestKit/RestKit)  Consuming and modeling RESTful web resources   
+[Reachability](https://github.com/tonymillion/Reachability) ARC and GCD modification for Apple’s reachability class     
+[socket.IO-objc](https://github.com/pkyeck/socket.IO-objc)  socket.io v0.7.2+ for iOS devices   
+[AFNetworkActivityLoggerv](https://github.com/AFNetworking/AFNetworkActivityLogger) AFNetworking 2.0 Extension for Network Request Logging   
 
 # Image Processing
-[GPUImage](https://github.com/BradLarson/GPUImage)  GPU-based image and video processing
-[iOS-image-filters](https://github.com/esilverberg/ios-image-filters)  Photoshop-style image filters
-[ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  Objective-C Port of ZXing barcode image processing
-[SVGKit](https://github.com/SVGKit/SVGKit)  Display and interact with SVG Images on iOS / OS X
-[UIImage-BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame) Blurred image effect
-[OpenCV](https://github.com/Fl0p/OpenCV-iOS)  Builded OpenCV iOS framework
-[Tesseract OCR](https://github.com/gali8/Tesseract-OCR-iOS) OCR framework for iOS
-[LEColorPicker](https://github.com/luisespinoza/LEColorPicker) Generate iTunes like color scheme depends on artwork  
-[MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner)  A lightweight, easy-to-use barcode scanning library for iOS 7
-[DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation
-[iOS7-BarcodeScanner](https://github.com/jpwidmer/iOS7-BarcodeScanner) Barcode scanner using the scanning capabilities introduced with iOS 7.
+[GPUImage](https://github.com/BradLarson/GPUImage)  GPU-based image and video processing    
+[iOS-image-filters](https://github.com/esilverberg/ios-image-filters)  Photoshop-style image filters    
+[ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  Objective-C Port of ZXing barcode image processing    
+[SVGKit](https://github.com/SVGKit/SVGKit)  Display and interact with SVG Images on iOS / OS X    
+[UIImage-BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame) Blurred image effect   
+[OpenCV](https://github.com/Fl0p/OpenCV-iOS)  Builded OpenCV iOS framework    
+[Tesseract OCR](https://github.com/gali8/Tesseract-OCR-iOS) OCR framework for iOS   
+[LEColorPicker](https://github.com/luisespinoza/LEColorPicker) Generate iTunes like color scheme depends on artwork     
+[MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner)  A lightweight, easy-to-use barcode scanning library for iOS 7   
+[DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation    
+[iOS7-BarcodeScanner](https://github.com/jpwidmer/iOS7-BarcodeScanner) Barcode scanner using the scanning capabilities introduced with iOS 7.    
 [iOS-WebP](https://github.com/seanooi/iOS-WebP)  Google's WebP image format decoder and encoder for iOS
-http://seanooi.github.io/iOS-WebP/
-[TDImageColors](https://github.com/timominous/TDImageColors) iOS Library used to detect a number of most used colors in a UIImage.
-[iOS-WebP](https://github.com/seanooi/iOS-WebP) Google's WebP image format decoder and encoder for iOS
+http://seanooi.github.io/iOS-WebP/    
+[TDImageColors](https://github.com/timominous/TDImageColors) iOS Library used to detect a number of most used colors in a UIImage.    
+[iOS-WebP](https://github.com/seanooi/iOS-WebP) Google's WebP image format decoder and encoder for iOS    
 
 
 
 # UI
-[MBProgressHUD](https://github.com/jdg/MBProgressHUD) Custom alert
-[SVProgressHUD](https://github.com/samvermette/SVProgressHUD) Another yet custom alert
-[AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) Cool AlertView
-[PaperFold](https://github.com/honcheng/PaperFold-for-iOS)  Paper folding animation for iOS
-[MPFoldTransition](https://github.com/mpospese/MPFoldTransition) Another yet paper folding animation
-[ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)  Facebook style view controller
-[MMDrawerController](https://github.com/mutualmobile/MMDrawerController) Another yet FB style view controller
-[TTAttributedLabel](https://github.com/mattt/TTTAttributedLabel)  Replacement for UILabel that supports attributes, data detectors, links, and more
-[SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) Custom pull-to-refresh control
-[TSMessage](https://github.com/toursprung/TSMessages)  Custom notifications from navigation bar
-[MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) iOS Mail swipe-style cell
-[SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)  Another yet swipe-style cell
-[iOSPlot](https://github.com/honcheng/iOSPlot)  Chart library for iOS
-[SVWebViewController](https://github.com/samvermette/SVWebViewController)  A drop-in inline browser for iOS app
-[PHFComposeBarView](https://github.com/fphilipe/PHFComposeBarView)  Compose bar from iOS 7 Messages.app
-[WYPopoverController](https://github.com/nicolaschengdev/WYPopoverController)  Custom popover
-[ABCalendarPicker](https://github.com/k06a/ABCalendarPicker)  Calendar picker control
-[AMScrollingNavBar](https://github.com/andreamazz/AMScrollingNavbar)  Scrollable UINavigationBar  (Google+ style)
-[MDCParallaxView](https://github.com/modocache/MDCParallaxView)  Parallax effect on view
-[Parallax](https://github.com/acoomans/Parallax)  Another yet parallax effect
-[GSBookShelf](https://github.com/ultragtx/GSBookShelf)  iBooks -style control
-[ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView)  Animated blur-in and blur-out on UIImageView.
-[SubjectiveCPhotoPanner](https://github.com/subjc/SubjectiveCPhotoPanner) A small clone of Facebook Paper's motion based photo panner
-http://subjc.com/facebook-paper-photo-panner/
-[CRMotionView](https://github.com/chroman/CRMotionView) A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.
-[CRToast](https://github.com/cruffenach/CRToast) A modern iOS toast view that can fit your notification needs
-[RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project
+[MBProgressHUD](https://github.com/jdg/MBProgressHUD) Custom alert    
+[SVProgressHUD](https://github.com/samvermette/SVProgressHUD) Another yet custom alert    
+[AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) Cool AlertView   
+[PaperFold](https://github.com/honcheng/PaperFold-for-iOS)  Paper folding animation for iOS   
+[MPFoldTransition](https://github.com/mpospese/MPFoldTransition) Another yet paper folding animation    
+[ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)  Facebook style view controller   
+[MMDrawerController](https://github.com/mutualmobile/MMDrawerController) Another yet FB style view controller   
+[TTAttributedLabel](https://github.com/mattt/TTTAttributedLabel)  Replacement for UILabel that supports attributes, data detectors, links, and more    
+[SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) Custom pull-to-refresh control    
+[TSMessage](https://github.com/toursprung/TSMessages)  Custom notifications from navigation bar   
+[MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) iOS Mail swipe-style cell    
+[SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)  Another yet swipe-style cell    
+[iOSPlot](https://github.com/honcheng/iOSPlot)  Chart library for iOS   
+[SVWebViewController](https://github.com/samvermette/SVWebViewController)  A drop-in inline browser for iOS app   
+[PHFComposeBarView](https://github.com/fphilipe/PHFComposeBarView)  Compose bar from iOS 7 Messages.app   
+[WYPopoverController](https://github.com/nicolaschengdev/WYPopoverController)  Custom popover   
+[ABCalendarPicker](https://github.com/k06a/ABCalendarPicker)  Calendar picker control   
+[AMScrollingNavBar](https://github.com/andreamazz/AMScrollingNavbar)  Scrollable UINavigationBar  (Google+ style)   
+[MDCParallaxView](https://github.com/modocache/MDCParallaxView)  Parallax effect on view    
+[Parallax](https://github.com/acoomans/Parallax)  Another yet parallax effect   
+[GSBookShelf](https://github.com/ultragtx/GSBookShelf)  iBooks -style control   
+[ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView)  Animated blur-in and blur-out on UIImageView.   
+[SubjectiveCPhotoPanner](https://github.com/subjc/SubjectiveCPhotoPanner) A small clone of Facebook Paper's motion based photo panner http://subjc.com/facebook-paper-photo-panner/    
+[CRMotionView](https://github.com/chroman/CRMotionView) A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.   
+[CRToast](https://github.com/cruffenach/CRToast) A modern iOS toast view that can fit your notification needs   
+[RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
 
 #Autolayout
 [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) UIView category which makes it easy to create layout constraints in code
