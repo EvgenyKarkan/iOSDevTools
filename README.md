@@ -58,97 +58,97 @@ http://seanooi.github.io/iOS-WebP/
 [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
 
 #Autolayout
-[FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) UIView category which makes it easy to create layout constraints in code
+[FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) UIView category which makes it easy to create layout constraints in code   
 [DynamicXray](https://github.com/chrismiles/DynamicXray) iOS UIKit Dynamics runtime visualisation and introspection library.
-http://dynamicxray.net/
+http://dynamicxray.net/   
 
 
 #Animation
-[AGGeometryKit-POP](https://github.com/hfossli/AGGeometryKit-POP) Bridging AGGeometryKit with POP for amazing dynamics and animations.
-[BCMeshTransformView](https://github.com/Ciechan/BCMeshTransformView) Mesh transforms for UIView
-[POP](https://github.com/facebook/pop) Extensible iOS and OS X animation library.
+[AGGeometryKit-POP](https://github.com/hfossli/AGGeometryKit-POP) Bridging AGGeometryKit with POP for amazing dynamics and animations.   
+[BCMeshTransformView](https://github.com/Ciechan/BCMeshTransformView) Mesh transforms for UIView    
+[POP](https://github.com/facebook/pop) Extensible iOS and OS X animation library.   
 
 
 #PDF
-[M13PDFKit](https://github.com/Marxon13/M13PDFKit) M13PDFKit is an iBooks like PDF viewer that can be embedded in iOS applications.
+[M13PDFKit](https://github.com/Marxon13/M13PDFKit) M13PDFKit is an iBooks like PDF viewer that can be embedded in iOS applications.   
 
 
 #Cache
-[SDWebImage](https://github.com/rs/SDWebImage)  Asynchronous image downloader with caching
-[FastImageCache](https://github.com/path/FastImageCache)  iOS library for quickly displaying images while scrolling
-[Haneke](https://github.com/hpique/Haneke)  A lightweight zero-config image cache for iOS.
-[EGOCache](https://github.com/enormego/EGOCache) Fast Caching for Objective-C (iPhone & Mac Compatible)
+[SDWebImage](https://github.com/rs/SDWebImage)  Asynchronous image downloader with caching    
+[FastImageCache](https://github.com/path/FastImageCache)  iOS library for quickly displaying images while scrolling   
+[Haneke](https://github.com/hpique/Haneke)  A lightweight zero-config image cache for iOS.    
+[EGOCache](https://github.com/enormego/EGOCache) Fast Caching for Objective-C (iPhone & Mac Compatible)   
 http://developers.enormego.com
 
 
 # Data
-[MagicalRecord](https://github.com/magicalpanda/MagicalRecord)  Easy Fetching for Core Data
-[JSONKit](https://github.com/johnezang/JSONKit)   Objective-C JSON wrapper
-[json-framework](https://github.com/stig/json-framework)  JSON parser and generator
-[JSONModel](https://github.com/icanzilb/JSONModel)  Data Modelling Framework for JSON
-[fmdb](https://github.com/ccgus/fmdb)  Cocoa / Objective-C wrapper around SQLite
-[FCModel](https://github.com/marcoarment/FCModel)  Alternative to Core Data for people who like having direct SQL access
-[TMCache](https://github.com/tumblr/TMCache)  Fast parallel object cache for iOS and OS X
-[SSKeychain](https://github.com/soffes/sskeychain)  Objective-C wrapper for the keychain
-[SSZipArchive](https://github.com/soffes/ssziparchive)  Utility class for zipping and unzipping files on iOS and Mac
-[RNCryptor](https://github.com/rnapier/RNCryptor)  AES encryption wrapper for iOS and Mac
-[HTMLParser](https://github.com/zootreeves/Objective-C-HMTL-Parser)  HTML parser
-[zipzap](https://github.com/pixelglow/zipzap)   Zip file I/O for iOS & Maс OS
-[RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories)  Makes regular expressions easy in ObjC
-[UAObfuscatedString](https://github.com/UrbanApps/UAObfuscatedString) A simple NSString category to hide sensitive strings from appearing in your binary
-[hpple](https://github.com/topfunky/hpple) An XML/HTML parser for Objective-C, inspired by Hpricot. http://topfunky.com
+[MagicalRecord](https://github.com/magicalpanda/MagicalRecord)  Easy Fetching for Core Data   
+[JSONKit](https://github.com/johnezang/JSONKit)   Objective-C JSON wrapper    
+[json-framework](https://github.com/stig/json-framework)  JSON parser and generator   
+[JSONModel](https://github.com/icanzilb/JSONModel)  Data Modelling Framework for JSON   
+[fmdb](https://github.com/ccgus/fmdb)  Cocoa / Objective-C wrapper around SQLite    
+[FCModel](https://github.com/marcoarment/FCModel)  Alternative to Core Data for people who like having direct SQL access    
+[TMCache](https://github.com/tumblr/TMCache)  Fast parallel object cache for iOS and OS X   
+[SSKeychain](https://github.com/soffes/sskeychain)  Objective-C wrapper for the keychain    
+[SSZipArchive](https://github.com/soffes/ssziparchive)  Utility class for zipping and unzipping files on iOS and Mac    
+[RNCryptor](https://github.com/rnapier/RNCryptor)  AES encryption wrapper for iOS and Mac   
+[HTMLParser](https://github.com/zootreeves/Objective-C-HMTL-Parser)  HTML parser    
+[zipzap](https://github.com/pixelglow/zipzap)   Zip file I/O for iOS & Maс OS   
+[RegEx Categories](https://github.com/bendytree/Objective-C-RegEx-Categories)  Makes regular expressions easy in ObjC   
+[UAObfuscatedString](https://github.com/UrbanApps/UAObfuscatedString) A simple NSString category to hide sensitive strings from appearing in your binary   
+[hpple](https://github.com/topfunky/hpple) An XML/HTML parser for Objective-C, inspired by Hpricot. http://topfunky.com   
 
 
 #File System
-[FCFileManager](https://github.com/fabiocaccamo/FCFileManager) iOS File Manager on top of NSFileManager for simplifying files management.
+[FCFileManager](https://github.com/fabiocaccamo/FCFileManager) iOS File Manager on top of NSFileManager for simplifying files management.   
 
 #APNS tools
-[APNS-Pusher](https://github.com/blommegard/APNS-Pusher)  A simple cocoa app to send pushes via APNS
+[APNS-Pusher](https://github.com/blommegard/APNS-Pusher)  A simple cocoa app to send pushes via APNS    
 
 #Date
-[iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter)  A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
+[iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter)  A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.   
 
 
 # Debug Tools
-[PonyDebugger](https://github.com/square/PonyDebugger)  Remote network and data debugging
-[CocoaLumberJack](https://github.com/CocoaLumberjack/CocoaLumberjack)  Flexible logging framework for Mac and iOS
-[superdb](https://github.com/Shopify/superdb)  realtime wireless debugger for iOS
-[OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)  Stub network requests
-[NSLogger](https://github.com/fpillet/NSLogger)  A modern, flexible logging tool
-[Xtrace](https://github.com/johnno1962/Xtrace)  Trace Objective-C method calls by class or instance
-[RHObjectiveBeagle](https://github.com/heardrwt/RHObjectiveBeagle) Beagle is an Objective C debugging tool that can sniff out class instances on the heap.
-[KSCrash](https://github.com/kstenerud/KSCrash) The Ultimate iOS Crash Reporter
-[chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
-[plcrashreporter](https://github.com/plausiblelabs/plcrashreporter) Mirror of the official PLCrashReporter repository
+[PonyDebugger](https://github.com/square/PonyDebugger)  Remote network and data debugging   
+[CocoaLumberJack](https://github.com/CocoaLumberjack/CocoaLumberjack)  Flexible logging framework for Mac and iOS   
+[superdb](https://github.com/Shopify/superdb)  realtime wireless debugger for iOS   
+[OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)  Stub network requests    
+[NSLogger](https://github.com/fpillet/NSLogger)  A modern, flexible logging tool    
+[Xtrace](https://github.com/johnno1962/Xtrace)  Trace Objective-C method calls by class or instance   
+[RHObjectiveBeagle](https://github.com/heardrwt/RHObjectiveBeagle) Beagle is an Objective C debugging tool that can sniff out class instances on the heap.    
+[KSCrash](https://github.com/kstenerud/KSCrash) The Ultimate iOS Crash Reporter   
+[chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.    
+[plcrashreporter](https://github.com/plausiblelabs/plcrashreporter) Mirror of the official PLCrashReporter repository   
 
 
 # Unit Tests
-[Kiwi](https://github.com/allending/Kiwi) BDD for iOS
-[GHUnit](https://github.com/gh-unit/gh-unit) Test Framework for Objective-C
-[OCMock](http://ocmock.org) Objective-C implementation of mock objects
+[Kiwi](https://github.com/allending/Kiwi) BDD for iOS   
+[GHUnit](https://github.com/gh-unit/gh-unit) Test Framework for Objective-C   
+[OCMock](http://ocmock.org) Objective-C implementation of mock objects    
 
 # UI Tests
-[UI AutoMonkey](https://github.com/jonathanpenn/ui-auto-monkey) Stress testing script for iOS applications
-[Calabash](https://github.com/calabash/calabash-ios) BDD style UI testing
+[UI AutoMonkey](https://github.com/jonathanpenn/ui-auto-monkey) Stress testing script for iOS applications    
+[Calabash](https://github.com/calabash/calabash-ios) BDD style UI testing   
 
 # Device
-[iHasApp](https://github.com/danielamitay/iHasApp)  Detect installed apps on a user's device
-[IntentKit](https://github.com/intentkit/IntentKit)  Handle third-party URL schemes in iOS apps
-[iOS System Services](https://github.com/Shmoopi/iOS-System-Services)  Gather all available information about a device
-[SOMotionDetector](https://github.com/SocialObjects-Software/SOMotionDetector) Simple library to detect motion type (walking, running, automotive).
-[GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo) Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.
+[iHasApp](https://github.com/danielamitay/iHasApp)  Detect installed apps on a user's device    
+[IntentKit](https://github.com/intentkit/IntentKit)  Handle third-party URL schemes in iOS apps   
+[iOS System Services](https://github.com/Shmoopi/iOS-System-Services)  Gather all available information about a device    
+[SOMotionDetector](https://github.com/SocialObjects-Software/SOMotionDetector) Simple library to detect motion type (walking, running, automotive).   
+[GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo) Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.   
 
 # Location
-[PSLocationManager](https://github.com/perspecdev/PSLocationManager) CoreLocation wrapper. Allows to track speed and distance.
+[PSLocationManager](https://github.com/perspecdev/PSLocationManager) CoreLocation wrapper. Allows to track speed and distance.   
 
 # Map
-[JPSThumbnailAnnotation](https://github.com/jpsim/JPSThumbnailAnnotation)  A simple mapkit annotation for displaying images and details.
-[calloutview](https://github.com/nfarina/calloutview) A lightweight callout view class for iOS mimicking UICalloutView.
-[route-me](https://github.com/route-me/route-me)  Open source map library for iOS
+[JPSThumbnailAnnotation](https://github.com/jpsim/JPSThumbnailAnnotation)  A simple mapkit annotation for displaying images and details.    
+[calloutview](https://github.com/nfarina/calloutview) A lightweight callout view class for iOS mimicking UICalloutView.   
+[route-me](https://github.com/route-me/route-me)  Open source map library for iOS   
 [mapbox-ios-sdk](https://github.com/mapbox/mapbox-ios-sdk) Mapbox iOS SDK, an open source alternative to MapKit.
-http://www.mapbox.com/mapbox-ios-sdk/
-[CCHMapClusterController](https://github.com/choefele/CCHMapClusterController) High-performance map clustering with MapKit for iOS and OS X. Integrate with 4 lines of code.
-[yandexmapkit-ios](https://github.com/yandexmobile/yandexmapkit-ios) Yandex Map Kit for iOS
+http://www.mapbox.com/mapbox-ios-sdk/   
+[CCHMapClusterController](https://github.com/choefele/CCHMapClusterController) High-performance map clustering with MapKit for iOS and OS X. Integrate with 4 lines of code.   
+[yandexmapkit-ios](https://github.com/yandexmobile/yandexmapkit-ios) Yandex Map Kit for iOS   
 
 
 #Media
