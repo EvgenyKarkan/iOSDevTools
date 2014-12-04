@@ -162,7 +162,7 @@ http://simpleauth.io
 * [FlickrKit](https://github.com/devedup/FlickrKit)  An iOS Flickr Framework, written in Objective-C
 http://www.devedup.com    
 * [objectiveflickr](https://github.com/lukhnos/objectiveflickr)  ObjectiveFlickr, a Flickr API framework for Objective-C   
-[DropboxBrowser](https://github.com/danielbierwirth/DropboxBrowser)  A simple ios Dropbox PDF Document Browser - list Dropbox, browse directory, download PDF Documents    
+* [DropboxBrowser](https://github.com/danielbierwirth/DropboxBrowser)  A simple ios Dropbox PDF Document Browser - list Dropbox, browse directory, download PDF Documents    
 
 
 #Applications
@@ -264,7 +264,7 @@ http://alcatraz.io
 * [ios-makefile](https://github.com/lexrus/ios-makefile) The universal makefile for my iOS projects distributes IPAs in seconds    
 * [rchook](https://github.com/musictheory/rchook) Make Xcode bump build #, tag git, and archive files on Product->Archive    
 
-## Editing code
+# Editing code
 
 * [Monokai Xcode 4 Theme](https://github.com/riveralabs/monokai-xcode4-theme) is the syntax highlighting theme I like
 * [SourceTree](http://www.sourcetreeapp.com) is my Git GUI client of choice
@@ -273,7 +273,7 @@ http://alcatraz.io
 * [CodeRunner](http://krillapps.com/coderunner/) is great for quickly testing out snippets of code
 * [xctool](https://github.com/facebook/xctool) is a replacement for Apple's `xcodebuild` tool but with saner output
 
-## Tweaking and debugging
+# Tweaking and debugging
 
 * [xScope](http://iconfactory.com/software/xscope) is great for achieving pixel-perfect results in your UIs
 * [Spark Inspector](http://www.sparkinspector.com) lets you visualise UIView hierarchies at runtime
@@ -281,29 +281,29 @@ http://alcatraz.io
 * [Quick Radar](http://www.quickradar.com) makes filing bug reports with Apple a cinch
 * [SimPholders](http://simpholders.com) sits in your menu bar and gives quick access to the app folders for the iOS Simulator
 
-## Debugging web services
+# Debugging web services
 
 * I use [Charles Proxy](http://www.charlesproxy.com) to see what's happening on the network when an app is running. (See [Using Charles from an iPhone](http://www.charlesproxy.com/documentation/faqs/using-charles-from-an-iphone/) for instructions on how to see the traffic going to and from a local device.)
 * [Postman for Chrome](http://www.getpostman.com) is an HTTP client for testing RESTful web services. I use this a *lot*.
 * [jq](http://stedolan.github.io/jq/) is a command-line JSON parser and mangler. It takes some learning, but it's a great tool for picking the stuff you care about out of a big load of JSON. (Tip: pipe a JSON stream through `jq '.'` to format it.)
 
-## Core Data
+# Core Data
 
 * [mogenerator](https://github.com/rentzsch/mogenerator) keeps auto-generated Core Data entity classes and your higher-level logic separate. A must-have if you're working with Core Data.
 * [Core Data Editor](http://christian-kienle.de/CoreDataEditor) is a GUI tool for browsing Core Data persistent stores. (Tip: double-click an item to see and navigate its relationships.)
 * [Base](http://menial.co.uk/base/) is a general-purpose SQLite GUI – sometimes it's quicker to just open a Core Data SQLite DB in Base than it is to use Core Data Editor, since CDE generally needs reconfiguring if your data model or the location of the persistent store changes.
 
-## Screencasting
+# Screencasting
 
 * [Reflector](http://reflectorapp.com) is a stroke of pure genius: it lets you record screen activity on an iOS device by simply making itself available as an AirPlay target. Set your iOS device to mirror to it and you're good to go. File under *damn, I wish I'd thought of that*.
 * I love [ScreenFlow](http://www.telestream.net/screenflow/) for screencasts from my Mac. I've tried a few screencasting apps over the years and this one is the best of the bunch.
 
-## Deployment and beyond
+# Deployment and beyond
 
 * After years as a TestFlight user I switched to [HockeyApp](http://hockeyapp.net) and never looked back. [HockeyMac](https://rink.hockeyapp.net/apps/67503a7926431872c4b6c1549f5bd6b1) is the native companion app that makes uploading to HockeyApp as part of the Xcode archiving process a doddle.
 * [Tokens](http://usetokens.com) helps you manage promo codes with zero hassle
 
-## Miscellaneous
+# Miscellaneous
 
 Not really development tools, but useful adjuncts to my day-to-day workflow.
 
@@ -313,12 +313,3 @@ Not really development tools, but useful adjuncts to my day-to-day workflow.
 #Swift
 [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS Swift Demos from Apple
 
-
-## Editing code
-
-* [Monokai Xcode 4 Theme](https://github.com/riveralabs/monokai-xcode4-theme) is the syntax highlighting theme I like
-* [SourceTree](http://www.sourcetreeapp.com) is my Git GUI client of choice
-* [Kaleidoscope](http://www.kaleidoscopeapp.com) is great for resolving merge conflicts and general diffing
-* I like [Sublime Text 2](http://www.sublimetext.com/2) as a general text editor, despite its many quirks
-* [CodeRunner](http://krillapps.com/coderunner/) is great for quickly testing out snippets of code
-* [xctool](https://github.com/facebook/xctool) is a replacement for Apple's `xcodebuild` tool but with saner output
