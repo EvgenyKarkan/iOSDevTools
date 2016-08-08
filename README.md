@@ -130,6 +130,7 @@ http://developers.enormego.com
 # UI Tests
 * [UI AutoMonkey](https://github.com/jonathanpenn/ui-auto-monkey) Stress testing script for iOS applications    
 * [Calabash](https://github.com/calabash/calabash-ios) BDD style UI testing   
+* [KIF](https://github.com/kif-framework/KIF) Keep It Functional - An iOS Functional Testing Framework
 
 # Device
 * [iHasApp](https://github.com/danielamitay/iHasApp)  Detect installed apps on a user's device    
