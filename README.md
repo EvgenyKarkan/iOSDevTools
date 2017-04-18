@@ -58,23 +58,23 @@ http://seanooi.github.io/iOS-WebP/
 * [CRToast](https://github.com/cruffenach/CRToast) A modern iOS toast view that can fit your notification needs   
 * [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
 
-#Autolayout
+# Autolayout
 * [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) UIView category which makes it easy to create layout constraints in code   
 * [DynamicXray](https://github.com/chrismiles/DynamicXray) iOS UIKit Dynamics runtime visualisation and introspection library.
 http://dynamicxray.net/   
 
 
-#Animation
+# Animation
 * [AGGeometryKit-POP](https://github.com/hfossli/AGGeometryKit-POP) Bridging AGGeometryKit with POP for amazing dynamics and animations.   
 * [BCMeshTransformView](https://github.com/Ciechan/BCMeshTransformView) Mesh transforms for UIView    
 * [POP](https://github.com/facebook/pop) Extensible iOS and OS X animation library.   
 
 
-#PDF
+# PDF
 * [M13PDFKit](https://github.com/Marxon13/M13PDFKit) M13PDFKit is an iBooks like PDF viewer that can be embedded in iOS applications.   
 
 
-#Cache
+# Cache
 * [SDWebImage](https://github.com/rs/SDWebImage)  Asynchronous image downloader with caching    
 * [FastImageCache](https://github.com/path/FastImageCache)  iOS library for quickly displaying images while scrolling   
 * [Haneke](https://github.com/hpique/Haneke)  A lightweight zero-config image cache for iOS.    
@@ -100,13 +100,13 @@ http://developers.enormego.com
 * [hpple](https://github.com/topfunky/hpple) An XML/HTML parser for Objective-C, inspired by Hpricot. http://topfunky.com   
 
 
-#File System
+# File System
 * [FCFileManager](https://github.com/fabiocaccamo/FCFileManager) iOS File Manager on top of NSFileManager for simplifying files management.   
 
-#APNS tools
+# APNS tools
 * [APNS-Pusher](https://github.com/blommegard/APNS-Pusher)  A simple cocoa app to send pushes via APNS    
 
-#Date
+# Date
 * [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter)  A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.   
 
 
@@ -153,12 +153,12 @@ http://www.mapbox.com/mapbox-ios-sdk/
 * [yandexmapkit-ios](https://github.com/yandexmobile/yandexmapkit-ios) Yandex Map Kit for iOS   
 
 
-#Media
+# Media
 * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) A Photo and Video Gallery for iOS 7 designed.   
 * [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.   
 
 
-#Vendor SDKs or/and it wrappers
+# Vendor SDKs or/and it wrappers
 * [SimpleAuth](https://github.com/calebd/SimpleAuth) Simple social authentication for iOS.
 http://simpleauth.io    
 * [FlickrKit](https://github.com/devedup/FlickrKit)  An iOS Flickr Framework, written in Objective-C
@@ -167,7 +167,7 @@ http://www.devedup.com
 * [DropboxBrowser](https://github.com/danielbierwirth/DropboxBrowser)  A simple ios Dropbox PDF Document Browser - list Dropbox, browse directory, download PDF Documents    
 
 
-#Applications
+# Applications
 * [Inkpad](https://github.com/sprang/Inkpad) Vector illustration app for the iPad   
 * [Brushes](https://github.com/sprang/Brushes) Painting app for the iPhone and iPad   
 * [GraphSketcher](https://github.com/graphsketcher/GraphSketcher) A fast, simple graph drawing and data plotting app for OS X and iPad. by OmniGroup company.    
@@ -197,7 +197,7 @@ http://quickblox.com/developers/Chattar
 * [Crash-Manager](https://github.com/zats/Crash-Manager) iOS client for Crashlytics   
 
 
-#Xcode Plugins
+# Xcode Plugins
 * [Injection for Xcode](https://github.com/johnno1962/injectionforxcode) Runtime Code Injection for Objective-C http://www.injectionforxcode.com    
 * [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway) Xcode plugin for auto-hiding the debugger once you start typing in the source code editor   
 * [XAlign](https://github.com/qfish/XAlign) An amazing Xcode plugin to align regular code.     
@@ -232,16 +232,16 @@ http://questbe.at/lin/
 
 
 
-#Xcode Templates
+# Xcode Templates
 * [iOS-Universal-Library-Template](https://github.com/michaeltyson/iOS-Universal-Library-Template) An Xcode 4 project template to create universal (armv6, armv7 and simulator) frameworks for iOS.   
 
-#Xcode configurations & scripts
+# Xcode configurations & scripts
 * [Warnings-xcconfig](https://github.com/boredzo/Warnings-xcconfig) An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.   
 * [xc-launch](https://github.com/dfreniche/xc-launch) A small script to launch Xcode using a RAM disk   
 * [WMPiOSXcconfig](https://github.com/goonzoid/WMPiOSXcconfig) A set of .xcconfig with aggressive warning settings for iOS projects.   
 * [projconf](https://github.com/memfrag/projconf) A Mac OS X command line tool for transfefring Xcode build settings to .xcconfig files.   
 
-#Tools  
+# Tools  
 * [Crafter](https://github.com/krzysztofzablocki/crafter)  Crafter - setup your cocoa projects with ease.
 http://merowing.info    
 * [iOStream](https://github.com/johnmoore/iOStream) Mobile presentations made easy. Install the SDK and start streaming now.    
@@ -312,6 +312,6 @@ Not really development tools, but useful adjuncts to my day-to-day workflow.
 * [Droplr](https://droplr.com) has a [great native Mac app](https://itunes.apple.com/gb/app/droplr/id498672703?mt=12) and an equally [great native iOS app](https://itunes.apple.com/gb/app/droplr/id500264329?mt=8). I use it every day for sharing links, code snippets and most of all images with my colleagues.
 * [Pupil](http://www.pupil.io) lets me switch the display resolution on my MacBook Pro Retina easily
 
-#Swift
+# Swift
 [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS Swift Demos from Apple
 
